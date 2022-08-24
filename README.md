@@ -1,9 +1,9 @@
 # What am I doing?
 The goal is to read a tet mesh from the vtk file
 It includes three steps:
-1. parse the vtk file(from .vtk to numpy array)
-2. extract the surface and remove the interior faces
-3. show them in taichi GUI
+1. parse the vtk file(from .vtk to numpy array): doing this in parse_vtk.py
+2. extract the surface and remove the interior faces: doing this in extract_surf.py
+3. show them in taichi GUI: doing this in main.py
 
 # How to run it
 install taichi>=1.0.4
