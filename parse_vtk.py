@@ -1,4 +1,4 @@
-fileName = "../data/Armadillo13K.vtk" 
+fileName = "./Armadillo13K.vtk" 
 pos = []
 tet = []
 
